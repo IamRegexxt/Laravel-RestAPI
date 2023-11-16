@@ -9,9 +9,10 @@
         "dest": "/api/index.php"
     }],
     "env": {
+        "APP NAME": "postman",
         "APP_ENV": "production",
-        "APP_DEBUG": "true",
-        "APP_URL": "https://yourproductionurl.com",
+        "APP_DEBUG": "false",
+        "APP_URL": "postman-6ah1l7ux0-jesreels-projects.vercel.app",
  
         "APP_CONFIG_CACHE": "/tmp/config.php",
         "APP_EVENTS_CACHE": "/tmp/events.php",
